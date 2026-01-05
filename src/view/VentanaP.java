@@ -18,6 +18,7 @@ import javax.swing.SwingConstants;
 import javax.swing.border.EmptyBorder;
 import javax.swing.ButtonGroup;
 
+//Clase main
 public class VentanaP extends JFrame {
 
 	private static final long serialVersionUID = 1L;
